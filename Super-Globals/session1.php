@@ -16,7 +16,4 @@
   $_SESSION['fcolor'] = "green";
 
 
-
-
-
-
+  
