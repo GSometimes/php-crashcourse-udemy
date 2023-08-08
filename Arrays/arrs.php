@@ -8,6 +8,7 @@
   // $users = ["jane", "mohamed", "raj", "jack"];
 
   // //echo $users[1];
+  // adding one line in comments
 
   // echo count($users);
 
